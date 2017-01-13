@@ -1,0 +1,11 @@
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\bin\Debug\MPP.Lab2.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\bin\Debug\MPP.Lab2.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\bin\Debug\MPP.Lab2.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.pdb
+C:\Users\Sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.XmlReaderForm.resources
+C:\Users\Sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.XmlMethodRedactor.resources
+C:\Users\Sasha\documents\visual studio 2015\Projects\MPP.Lab2\MPP.Lab2\obj\Debug\MPP.Lab2.XmlThreadRedactor.resources
